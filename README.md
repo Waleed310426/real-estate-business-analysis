@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <h1>🏢 DARY | منصة داري لإدارة العقارات</h1>
   <p>Advanced Real Estate Business Analysis Dashboard | لوحة تحليل أعمال عقارية متقدمة</p>
 
@@ -46,18 +46,18 @@ The report leverages a rich set of **DAX measures** covering:
 | File | Description |
 |------|-------------|
 | `مشروع ادارة المباني - تحليل الاعمال .pbix` | Main Power BI report file |
-| `1-الرئيسية.jpg` | Home / Navigation page screenshot |
-| `مقاييس DAX 2-المتقدمه.jpg` | Advanced DAX measures screenshot |
-| `مقاييس DAX 3-الأساسية.jpg` | Basic DAX measures screenshot |
-| `4-modeling.jpg` | Data model diagram screenshot |
-| `الملخص 5-التنفيذي.jpg` | Executive Summary page screenshot |
-| `العقارات 6-والوحدات.jpg` | Properties & Units page screenshot |
-| `العقود 7-والمستأجرون.jpg` | Contracts & Tenants page screenshot |
-| `الفواتير 8-والتحصيل.jpg` | Invoices & Collection page screenshot |
-| `الصيانة -9والخدمات.jpg` | Maintenance & Services page screenshot |
-| `قراءات -10العدادات.jpg` | Meter Readings page screenshot |
-| `جودة البيانات-11.jpg` | Data Quality page screenshot |
-| `الجداول و ربط العلاقات .jpg` | Tables & Relationships screenshot |
+| `صور المشروع/1-الرئيسية.jpg` | Home / Navigation page screenshot |
+| `صور المشروع/مقاييس DAX 2-المتقدمه.jpg` | Advanced DAX measures screenshot |
+| `صور المشروع/مقاييس DAX 3-الأساسية.jpg` | Basic DAX measures screenshot |
+| `صور المشروع/4-modeling.jpg` | Data model diagram screenshot |
+| `صور المشروع/الملخص 5-التنفيذي.jpg` | Executive Summary page screenshot |
+| `صور المشروع/العقارات 6-والوحدات.jpg` | Properties & Units page screenshot |
+| `صور المشروع/العقود 7-والمستأجرون.jpg` | Contracts & Tenants page screenshot |
+| `صور المشروع/الفواتير 8-والتحصيل.jpg` | Invoices & Collection page screenshot |
+| `صور المشروع/الصيانة -9والخدمات.jpg` | Maintenance & Services page screenshot |
+| `صور المشروع/قراءات -10العدادات.jpg` | Meter Readings page screenshot |
+| `صور المشروع/جودة البيانات-11.jpg` | Data Quality page screenshot |
+| `صور المشروع/الجداول و ربط العلاقات .jpg` | Tables & Relationships screenshot |
 
 ### ⚙️ How to Open
 
@@ -74,14 +74,14 @@ The report leverages a rich set of **DAX measures** covering:
 
 | Page | Screenshot |
 |------|------------|
-| 🏠 Home | ![Home](1-الرئيسية.jpg) |
-| 📊 Executive Summary | ![Summary](الملخص%205-التنفيذي.jpg) |
-| 🏗️ Properties & Units | ![Properties](العقارات%206-والوحدات.jpg) |
-| 📝 Contracts & Tenants | ![Contracts](العقود%207-والمستأجرون.jpg) |
-| 💰 Invoices & Collection | ![Invoices](الفواتير%208-والتحصيل.jpg) |
-| 🛠️ Maintenance & Services | ![Maintenance](الصيانة%20-9والخدمات.jpg) |
-| ⚡ Meter Readings | ![Meters](قراءات%20-10العدادات.jpg) |
-| ✅ Data Quality | ![Quality](جودة%20البيانات-11.jpg) |
+| 🏠 Home | ![Home](صور%20المشروع/1-الرئيسية.jpg) |
+| 📊 Executive Summary | ![Summary](صور%20المشروع/الملخص%205-التنفيذي.jpg) |
+| 🏗️ Properties & Units | ![Properties](صور%20المشروع/العقارات%206-والوحدات.jpg) |
+| 📝 Contracts & Tenants | ![Contracts](صور%20المشروع/العقود%207-والمستأجرون.jpg) |
+| 💰 Invoices & Collection | ![Invoices](صور%20المشروع/الفواتير%208-والتحصيل.jpg) |
+| 🛠️ Maintenance & Services | ![Maintenance](صور%20المشروع/الصيانة%20-9والخدمات.jpg) |
+| ⚡ Meter Readings | ![Meters](صور%20المشروع/قراءات%20-10العدادات.jpg) |
+| ✅ Data Quality | ![Quality](صور%20المشروع/جودة%20البيانات-11.jpg) |
 
 <br>
 
@@ -120,18 +120,18 @@ The report leverages a rich set of **DAX measures** covering:
 | الملف | الوصف |
 |-------|--------|
 | `مشروع ادارة المباني - تحليل الاعمال .pbix` | ملف تقرير Power BI الرئيسي |
-| `1-الرئيسية.jpg` | لقطة شاشة صفحة التنقل الرئيسية |
-| `مقاييس DAX 2-المتقدمه.jpg` | لقطة شاشة مقاييس DAX المتقدمة |
-| `مقاييس DAX 3-الأساسية.jpg` | لقطة شاشة مقاييس DAX الأساسية |
-| `4-modeling.jpg` | لقطة شاشة مخطط نموذج البيانات |
-| `الملخص 5-التنفيذي.jpg` | لقطة شاشة صفحة الملخص التنفيذي |
-| `العقارات 6-والوحدات.jpg` | لقطة شاشة صفحة العقارات والوحدات |
-| `العقود 7-والمستأجرون.jpg` | لقطة شاشة صفحة العقود والمستأجرين |
-| `الفواتير 8-والتحصيل.jpg` | لقطة شاشة صفحة الفواتير والتحصيل |
-| `الصيانة -9والخدمات.jpg` | لقطة شاشة صفحة الصيانة والخدمات |
-| `قراءات -10العدادات.jpg` | لقطة شاشة صفحة قراءات العدادات |
-| `جودة البيانات-11.jpg` | لقطة شاشة صفحة جودة البيانات |
-| `الجداول و ربط العلاقات .jpg` | لقطة شاشة الجداول والعلاقات |
+| `صور المشروع/1-الرئيسية.jpg` | لقطة شاشة صفحة التنقل الرئيسية |
+| `صور المشروع/مقاييس DAX 2-المتقدمه.jpg` | لقطة شاشة مقاييس DAX المتقدمة |
+| `صور المشروع/مقاييس DAX 3-الأساسية.jpg` | لقطة شاشة مقاييس DAX الأساسية |
+| `صور المشروع/4-modeling.jpg` | لقطة شاشة مخطط نموذج البيانات |
+| `صور المشروع/الملخص 5-التنفيذي.jpg` | لقطة شاشة صفحة الملخص التنفيذي |
+| `صور المشروع/العقارات 6-والوحدات.jpg` | لقطة شاشة صفحة العقارات والوحدات |
+| `صور المشروع/العقود 7-والمستأجرون.jpg` | لقطة شاشة صفحة العقود والمستأجرين |
+| `صور المشروع/الفواتير 8-والتحصيل.jpg` | لقطة شاشة صفحة الفواتير والتحصيل |
+| `صور المشروع/الصيانة -9والخدمات.jpg` | لقطة شاشة صفحة الصيانة والخدمات |
+| `صور المشروع/قراءات -10العدادات.jpg` | لقطة شاشة صفحة قراءات العدادات |
+| `صور المشروع/جودة البيانات-11.jpg` | لقطة شاشة صفحة جودة البيانات |
+| `صور المشروع/الجداول و ربط العلاقات .jpg` | لقطة شاشة الجداول والعلاقات |
 
 ### ⚙️ خطوات الفتح والاستخدام
 
@@ -148,14 +148,14 @@ The report leverages a rich set of **DAX measures** covering:
 
 | الصفحة | لقطة الشاشة |
 |---------|-------------|
-| 🏠 الرئيسية | ![الرئيسية](1-الرئيسية.jpg) |
-| 📊 الملخص التنفيذي | ![الملخص](الملخص%205-التنفيذي.jpg) |
-| 🏗️ العقارات والوحدات | ![العقارات](العقارات%206-والوحدات.jpg) |
-| 📝 العقود والمستأجرون | ![العقود](العقود%207-والمستأجرون.jpg) |
-| 💰 الفواتير والتحصيل | ![الفواتير](الفواتير%208-والتحصيل.jpg) |
-| 🛠️ الصيانة والخدمات | ![الصيانة](الصيانة%20-9والخدمات.jpg) |
-| ⚡ قراءات العدادات | ![القراءات](قراءات%20-10العدادات.jpg) |
-| ✅ جودة البيانات | ![الجودة](جودة%20البيانات-11.jpg) |
+| 🏠 الرئيسية | ![الرئيسية](صور%20المشروع/1-الرئيسية.jpg) |
+| 📊 الملخص التنفيذي | ![الملخص](صور%20المشروع/الملخص%205-التنفيذي.jpg) |
+| 🏗️ العقارات والوحدات | ![العقارات](صور%20المشروع/العقارات%206-والوحدات.jpg) |
+| 📝 العقود والمستأجرون | ![العقود](صور%20المشروع/العقود%207-والمستأجرون.jpg) |
+| 💰 الفواتير والتحصيل | ![الفواتير](صور%20المشروع/الفواتير%208-والتحصيل.jpg) |
+| 🛠️ الصيانة والخدمات | ![الصيانة](صور%20المشروع/الصيانة%20-9والخدمات.jpg) |
+| ⚡ قراءات العدادات | ![القراءات](صور%20المشروع/قراءات%20-10العدادات.jpg) |
+| ✅ جودة البيانات | ![الجودة](صور%20المشروع/جودة%20البيانات-11.jpg) |
 
 <br>
 
